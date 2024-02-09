@@ -1,0 +1,273 @@
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\appsettings.Development.json
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\appsettings.json
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.staticwebassets.runtime.json
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.exe
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.deps.json
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.runtimeconfig.json
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.pdb
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.GeneratedMSBuildEditorConfig.editorconfig
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.AssemblyInfoInputs.cache
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.AssemblyInfo.cs
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.csproj.CoreCompileInputs.cache
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.MvcApplicationPartsAssemblyInfo.cache
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.RazorAssemblyInfo.cache
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.RazorAssemblyInfo.cs
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets.build.json
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets.development.json
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets\msbuild.STQAPWEB.Microsoft.AspNetCore.StaticWebAssets.props
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets\msbuild.build.STQAPWEB.props
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.STQAPWEB.props
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.STQAPWEB.props
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets.pack.json
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\scopedcss\bundle\STQAPWEB.styles.css
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\scopedcss\projectbundle\STQAPWEB.bundle.scp.css
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.dll
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\refint\STQAPWEB.dll
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.pdb
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.genruntimeconfig.cache
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\ref\STQAPWEB.dll
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.csproj.AssemblyReference.cache
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Azure.Core.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Azure.Identity.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Humanizer.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.CodeDom.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Memory.Data.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\pro\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\pro\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.csproj.CopyComplete
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\appsettings.Development.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\appsettings.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.staticwebassets.runtime.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.exe
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.deps.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.runtimeconfig.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\STQAPWEB.pdb
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Azure.Core.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Azure.Identity.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Humanizer.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.CodeDom.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.csproj.AssemblyReference.cache
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.AssemblyInfoInputs.cache
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.AssemblyInfo.cs
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.csproj.CoreCompileInputs.cache
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.MvcApplicationPartsAssemblyInfo.cache
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.RazorAssemblyInfo.cache
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.RazorAssemblyInfo.cs
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.sourcelink.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets.build.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets.development.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets\msbuild.STQAPWEB.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets\msbuild.build.STQAPWEB.props
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.STQAPWEB.props
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.STQAPWEB.props
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\scopedcss\bundle\STQAPWEB.styles.css
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\scopedcss\projectbundle\STQAPWEB.bundle.scp.css
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.csproj.CopyComplete
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\refint\STQAPWEB.dll
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.pdb
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\STQAPWEB.genruntimeconfig.cache
+E:\Student - Teacher Question & Answer Platform\STQAPWEB\STQAPWEB\obj\Debug\net8.0\ref\STQAPWEB.dll

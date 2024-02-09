@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<STQAPWEB.Models.Entites.Answer>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">AnswerId</th>
+            <th scope="col">QuestionId</th>
+            <th scope="col">TeacherId</th>
+            <th scope="col">StudentId</th>
+            <th scope="col">QuestionText</th>
+            <th scope="col">AnswerText</th>
+            <th scope="col">DateTimeAsked</th>
+            <th scope="col"></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var questiton in Model)
+        {
+            <tr>
+                <th scope="row">@questiton.AnswerId </th>
+                <th>@questiton.QuestionId </th>
+                <th>@questiton.TeacherId </th>
+                <td>@questiton.StudentId </td>
+                <td>@questiton.QuestionText </td>
+                <td>@questiton.AnswerText </td>
+                <td>@questiton.DateTimeAnswered</td>
+                <td><a class="btn btn-primary" asp-controller="PostView" asp-action="EditQuestion" asp-route-id="@questiton.QuestionId">Edit</a></td>
+
+            </tr>
+
+        }
+
+    </tbody>
+</table>
