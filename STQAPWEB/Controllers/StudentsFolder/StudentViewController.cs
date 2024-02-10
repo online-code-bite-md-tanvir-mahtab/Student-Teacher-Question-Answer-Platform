@@ -26,6 +26,7 @@ namespace STQAPWEB.Controllers.StudentsFolder
                 Password = user.Password,
                 isStudent = user.isStudent,
                 isTeacher = user.isTeacher,
+                isModerator = user.isModerator,
             };
             return View(profile);
         }
@@ -48,6 +49,7 @@ namespace STQAPWEB.Controllers.StudentsFolder
                 user.Password = viewModel.Password;
                 user.isStudent = viewModel.isStudent;
                 user.isTeacher = viewModel.isTeacher;
+                user.isModerator = viewModel.isModerator;
                 await dbContext.SaveChangesAsync();
             }
             return RedirectToAction("Profile", "StudentView", new

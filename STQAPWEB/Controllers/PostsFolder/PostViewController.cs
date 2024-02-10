@@ -153,5 +153,46 @@ namespace STQAPWEB.Controllers.PostsFolder
             }
             return View(user_quests);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> ListAllStudentForModerator()
+        {
+            var questions = await dbContext.QuestionQuestions.ToListAsync();
+            return View(questions);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> DeleteQuestion(int qId)
+        {
+            var question = await dbContext.QuestionQuestions.FindAsync(qId);
+            var answer = new Answer
+            {
+                QuestionId = question.QuestionId,
+                StudentId = question.StudentId,
+                QuestionText = question.QuestionText,
+            };
+            return View(answer);
+        }
+        [HttpPost]
+        public async Task<IActionResult> DeleteQuestion(Answer answer)
+        {
+            var tanswer = new Answer
+            {
+                QuestionId = answer.QuestionId,
+                AnswerText = answer.AnswerText,
+                TeacherId = answer.TeacherId,
+                StudentId = answer.StudentId,
+                QuestionText = answer.QuestionText,
+                DateTimeAnswered = DateTime.Now,
+            };
+            var question = await dbContext.QuestionQuestions.FindAsync(tanswer.QuestionId);
+            if (question != null)
+            {
+                dbContext.QuestionQuestions.Remove(question);
+                await dbContext.SaveChangesAsync();
+            }
+            
+            return RedirectToAction("ListAllStudentForModerator");
+        }
     }
 }

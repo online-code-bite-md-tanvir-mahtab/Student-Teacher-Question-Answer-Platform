@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DHrsIgFC6KSegbdBBnRZ0AtPOLja3E2tLi8ucElPbisRWXSUe10DkkjVYWS/RkTorjjC1W3HCXtG6Xn2Iw8HWA==",
+  "dgSpecHash": "W1Du4ZmG5txOXtfOd7f2ZxkiIIIW5IDd7Qo/Zr9OQzphcgROaK2tq6baFoGzi3QdXpc1yR769N75HVTr+hBRqw==",
   "success": true,
-  "projectFilePath": "E:\\Student - Teacher Question & Answer Platform\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
+  "projectFilePath": "D:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tanzi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\tanzi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

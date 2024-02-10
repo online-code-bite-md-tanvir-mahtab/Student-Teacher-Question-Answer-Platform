@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Student - Teacher Question & Answer Platform\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj": {}
+    "D:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj": {}
   },
   "projects": {
-    "E:\\Student - Teacher Question & Answer Platform\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj": {
+    "D:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Student - Teacher Question & Answer Platform\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
+        "projectUniqueName": "D:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
         "projectName": "STQAPWEB",
-        "projectPath": "E:\\Student - Teacher Question & Answer Platform\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
+        "projectPath": "D:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
         "packagesPath": "C:\\Users\\tanzi\\.nuget\\packages\\",
-        "outputPath": "E:\\Student - Teacher Question & Answer Platform\\STQAPWEB\\STQAPWEB\\obj\\",
+        "outputPath": "D:\\STQAPWEB\\STQAPWEB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

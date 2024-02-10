@@ -14,26 +14,15 @@
 
         <div class="w-full md:w-2/5 p-4 sm:p-6 lg:p-8 bg-white shadow-md">
             
-            @if (Model.isStudent is true)
+            @if (Model.isModerator)
             {
-                <span class="text-gray-600 mt-4">Welcome to Student Portal</span>
+                <span class="text-gray-600 mt-4">Welcome to Moderator Portal</span>
                 <div class="flex flex-col md:flex-row items-center justify-between mb-4">
                     <a class="btn" asp-controller="StudentView" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
-                    <a class="btn" asp-controller="PostView" asp-action="Question" asp-route-sId="@Model.InstitueId">Post Question</a>
-                    <a class="btn" asp-controller="PostView" asp-action="List" asp-route-sId="@Model.InstitueId">My Posts</a>
-                    <a class="btn" asp-controller="PostView" asp-action="ListAllStudent">All Posts</a>
-                    <a class="btn" asp-controller="PostView" asp-action="ListAnswerdStudent" asp-route-sId="@Model.InstitueId">Teacher Answer</a>
-
-                </div>
-            }else if (Model.isTeacher is false)
-            {
-                <span class="text-gray-600 mt-4">Welcome Stanger Please Update profile to use all the functionality</span>
-                <div class="flex flex-col md:flex-row items-center justify-between mb-4">
-                    <a class="btn" asp-controller="StudentView" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
-
+                    <a class="btn" asp-controller="PostView" asp-action="ListAllStudentForModerator">All Posts</a>
                 </div>
             }
-            @if (Model.isTeacher is true)
+            else if (Model.isTeacher)
             {
                 <span class="text-gray-600 mt-4">Welcome to Teacher Portal</span>
                 <div class="flex flex-col md:flex-row items-center justify-between mb-4">
@@ -42,14 +31,25 @@
                     <a class="btn" asp-controller="PostView" asp-action="ListAll">All Posts</a>
                 </div>
             }
-            else if (Model.isStudent is false)
+            else if (Model.isStudent)
             {
-                <span class="text-gray-600 mt-4">Welcome Stanger Please Update profile to use all the functionality</span>
+                <span class="text-gray-600 mt-4">Welcome to Student Portal</span>
                 <div class="flex flex-col md:flex-row items-center justify-between mb-4">
                     <a class="btn" asp-controller="StudentView" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
-
+                    <a class="btn" asp-controller="PostView" asp-action="Question" asp-route-sId="@Model.InstitueId">Post Question</a>
+                    <a class="btn" asp-controller="PostView" asp-action="List" asp-route-sId="@Model.InstitueId">My Posts</a>
+                    <a class="btn" asp-controller="PostView" asp-action="ListAllStudent">All Posts</a>
+                    <a class="btn" asp-controller="PostView" asp-action="ListAnswerdStudent" asp-route-sId="@Model.InstitueId">Teacher Answer</a>
                 </div>
             }
+            else
+            {
+                <span class="text-gray-600 mt-4">Welcome Stranger. Please update your profile to use all the functionality.</span>
+                <div class="flex flex-col md:flex-row items-center justify-between mb-4">
+                    <a class="btn" asp-controller="StudentView" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+                </div>
+            }
+
             
             <div class="w-full p-8 mx-2 flex justify-center">
                 <img id="showImage" class="max-w-xs w-32 items-center border" src="https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200" alt="">
@@ -94,6 +94,11 @@
 
                     <input type="checkbox" class="form-check-input" id="isStudent" asp-for="isStudent" />
                     <label class="form-label" for="isStudent">isStudent</label>
+                </div>
+                <div class="mt-3">
+
+                    <input type="checkbox" class="form-check-input" id="isModerator" asp-for="isModerator" />
+                    <label class="form-label" for="isModerator">isModerator</label>
                 </div>
                 <div class="mt-3">
 

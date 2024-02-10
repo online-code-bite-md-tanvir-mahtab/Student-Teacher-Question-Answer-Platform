@@ -79,6 +79,9 @@ namespace STQAPWEB.Controllers
                 InstitueId = viewModel.InstitueId,
                 InstitueName = viewModel.InstitueName,
                 Password = viewModel.Password,
+                isStudent=viewModel.isStudent,
+                isTeacher=viewModel.isTeacher,
+                isModerator=viewModel.isModerator,
             };
             await dbContext.AddAsync(newUser);
             await dbContext.SaveChangesAsync();

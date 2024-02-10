@@ -10,5 +10,6 @@
         public string Password { get; set; }
         public bool isStudent { get; set; }
         public bool isTeacher { get; set; }
+        public bool isModerator { get; set; }
     }
 }
