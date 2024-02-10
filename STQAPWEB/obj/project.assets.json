@@ -4020,11 +4020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
+      "projectUniqueName": "E:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
       "projectName": "STQAPWEB",
-      "projectPath": "D:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
+      "projectPath": "E:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
       "packagesPath": "C:\\Users\\tanzi\\.nuget\\packages\\",
-      "outputPath": "D:\\STQAPWEB\\STQAPWEB\\obj\\",
+      "outputPath": "E:\\STQAPWEB\\STQAPWEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tanzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

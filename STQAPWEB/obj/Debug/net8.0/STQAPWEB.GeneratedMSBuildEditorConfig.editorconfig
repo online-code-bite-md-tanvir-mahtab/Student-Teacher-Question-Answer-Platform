@@ -9,91 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = STQAPWEB
 build_property.RootNamespace = STQAPWEB
-build_property.ProjectDir = D:\STQAPWEB\STQAPWEB\
+build_property.ProjectDir = E:\STQAPWEB\STQAPWEB\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\STQAPWEB\STQAPWEB
+build_property.MSBuildProjectDirectory = E:\STQAPWEB\STQAPWEB
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/STQAPWEB/STQAPWEB/Views/Home/Index.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/Home/Privacy.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/Home/Registraction.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/Home/Registraction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYWN0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/AnswerQuestion.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/AnswerQuestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcQW5zd2VyUXVlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/DeleteQuestion.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/DeleteQuestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcRGVsZXRlUXVlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/EditQuestion.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/EditQuestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcRWRpdFF1ZXN0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/List.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/ListAll.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/ListAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcTGlzdEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/ListAllStudent.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/ListAllStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcTGlzdEFsbFN0dWRlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/ListAllStudentForModerator.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/ListAllStudentForModerator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcTGlzdEFsbFN0dWRlbnRGb3JNb2RlcmF0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/ListAnswerd.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/ListAnswerd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcTGlzdEFuc3dlcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/ListAnswerdStudent.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/ListAnswerdStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcTGlzdEFuc3dlcmRTdHVkZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/PostView/Question.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/PostView/Question.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFZpZXdcUXVlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/Shared/Error.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/StudentView/Edit.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/StudentView/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFZpZXdcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/StudentView/Profile.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/StudentView/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFZpZXdcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/_ViewImports.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/_ViewStart.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STQAPWEB/STQAPWEB/Views/Shared/_Layout.cshtml]
+[E:/STQAPWEB/STQAPWEB/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-r3qsg8wolu

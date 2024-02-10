@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W1Du4ZmG5txOXtfOd7f2ZxkiIIIW5IDd7Qo/Zr9OQzphcgROaK2tq6baFoGzi3QdXpc1yR769N75HVTr+hBRqw==",
+  "dgSpecHash": "NE9KppVUAJ2rhMKvlIjUvLqIs2GxVz58mP4uOOKHN5yXQ02j3wJP3Fy/y6FsqYRrBQV8dydfU+p5PYZ0iBf35w==",
   "success": true,
-  "projectFilePath": "D:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
+  "projectFilePath": "E:\\STQAPWEB\\STQAPWEB\\STQAPWEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tanzi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\tanzi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STQAPWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b7050abafeb5ad3450d2c83eafe13551a4b34aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be27f0f63563370db45839140b2264e7cab83c21")]
 [assembly: System.Reflection.AssemblyProductAttribute("STQAPWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STQAPWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
